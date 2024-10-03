@@ -1,0 +1,13 @@
+/
+'ac_c[c]'
+'coa_c[c]'
+'accoa_c[c]'
+'pi_c[c]'
+'h2o_c[c]'
+'atp_c[c]'
+'cit_c[c]'
+'oaa_c[c]'
+'actp_c[c]'
+'adp_c[c]'
+'h_c[c]'
+/
